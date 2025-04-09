@@ -3,7 +3,7 @@
 ## **Game Description**
 Interview Quest is a skill-building game where players participate in simulated job interviews with AI-generated interviewers. Players can search for specific jobs or generate random job opportunities with a limited number of rerolls. During interviews, players answer questions from distinct "bosses" created using face generation technology (like thispersondoesnotexist.com), with their performance determining whether they get "hired" and how many "stars" they earn. Stars function as the in-game currency for purchasing cosmetic skins and add-ons, as well as additional rerolls for interviewers if players exhaust their free allotment within a time limit.
 
-![Interview Quest Interface Template](image.png)
+![Interview Quest Interface Template](template.png)
 
 ## **Problem Definition and User Research**
 
